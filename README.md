@@ -35,7 +35,7 @@
 ---
 
 🌎 Contato
-     <div>
+     <div align="center">
                 <a href="mailto:kauacasella2018@gmail.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
 </a>
