@@ -7,7 +7,7 @@
 
 💻 Área de interesse: Desenvolvimento Front-End.
 <p>📚 Atualmente aprendendo: Lógica de Programação, C#, HTML, CSS e JavaScript. </p>
-<p>🎓 Graduação: Iniciando Ciência da Computação pela FECAP. </p>
+<p>🎓 Graduação: Ciência da Computação pela FECAP. </p>
 <p> 🚀 Objetivo: Atuar profissionalmente como desenvolvedor Front-End. </p>
 
 
