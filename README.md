@@ -1,4 +1,4 @@
-# kauacasella
+# KauaCasella
 <h1 align="center">Hello World! Eu sou o Kauã Casella! 👋</h1>
 
 ---
