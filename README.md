@@ -36,6 +36,10 @@
 
 🌎 Contato
      <div>
-                <p><a href="mailto:kauacasella2018@gmail.com">kauacasella2018@gmail.com</a></p>
-                <p><a href="tel:+5511965403578">(11) 96540-3578</a></p>
+                <a href="mailto:kauacasella2018@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
+</a>
+<a href="https://www.instagram.com/_kaua911">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50"/>
+</a>
             </div>
