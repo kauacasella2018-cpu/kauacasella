@@ -1,5 +1,5 @@
 # kauacasella
-<h1 align="center">Hello World! Eu sou o Kauã Casella 👋</h1>
+<h1 align="center">Hello World! Eu sou o Kauã Casella! 👋</h1>
 
 ---
 💡 Sobre mim
